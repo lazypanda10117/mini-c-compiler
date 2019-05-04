@@ -1,7 +1,7 @@
 #lang racket
 
 ; REQUIREMENTS
-(require "scanning.rkt")
+(require "Provided/scanning.rkt")
 
 
 ; GLOBAL CONSTANTS (and constant helper)

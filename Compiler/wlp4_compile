@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# For Fully Functional Compiler
+racket wlp4-parse-tree-validation.rkt | racket wlp4-augmented-parse-tree-to-mips.rkt
+
+# For Partially Optimized Compiler
+# racket wlp4-parse-tree-validation.rkt | racket partial_optim_wlp4-augmented-parse-tree-to-mips.rkt

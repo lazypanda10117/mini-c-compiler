@@ -21,7 +21,7 @@
 (define output-tree-stack empty)
 (define symbol-counter 0)
 
-(define wlp4-definition-input (open-input-file "wlp4-cfg.in"))
+(define wlp4-definition-input (open-input-file "Provided/wlp4-cfg.in"))
 
 ; Some utility functions
 (define (in-list element lst)
