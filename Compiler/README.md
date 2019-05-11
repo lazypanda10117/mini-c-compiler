@@ -1,6 +1,6 @@
 To compile, run:
 
-> ./compile < input.cfg
+> ./wlp4_compile < input.cfg
 
 
 
